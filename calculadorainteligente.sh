@@ -15,9 +15,3 @@ if calculo == "x":
 
 if calculo == "/":
     print(numero1 / numero2)
-
-## 📌 Como Executar o Arquivo `.sh`
-
-1. **Dê permissão de execução ao arquivo:**  
-   ```bash
-   chmod +x executar.sh
